@@ -54,3 +54,5 @@ This project was created as a personal astronomy and programming project to comb
 ## Author
 
 Anahita Dua
+
+© 2026 Cosmic Atlas — Personal Project by Anahita

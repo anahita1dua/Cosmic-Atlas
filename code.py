@@ -99,7 +99,7 @@ class CosmicAtlasApp(ctk.CTk):
 		popup.attributes("-topmost", True)
 		popup.update_idletasks()
 		x=((popup.winfo_screenwidth()//2)-400//2)
-		y=((popup.winfo_screenwidth()//2)-250//2)
+		y=((popup.winfo_screenheight()//2)-250//2)
 		popup.geometry(f"+{x}+{y}")
 		ctk.CTkLabel(popup, text="DID YOU KNOW?", font=("Arial", 20, "bold"), text_color="orange").pack(pady=20)
 		fact=random.choice(self.random_facts)

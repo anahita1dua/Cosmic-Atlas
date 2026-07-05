@@ -55,4 +55,7 @@ This project was created as a personal astronomy and programming project to comb
 
 Anahita Dua
 
-© 2026 Cosmic Atlas — Personal Project by Anahita
+## License/Copyright
+© 2026 Cosmic Atlas — Personal Project by Anahita, All Rights Reserved 
+This project is shared for educational and portfolio purposes only.
+Please do not copy, redistribute, or reuse without permission.

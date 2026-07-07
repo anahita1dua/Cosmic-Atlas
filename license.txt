@@ -6,4 +6,4 @@ via any medium, is strictly prohibited.
 
 Permission to view the source code is granted solely for educational 
 and review purposes on GitHub. No rights are granted to run, compile, 
-or adapt the software for personal, commercial, or non-commercial use.
+or adapt the software for personal, commercial, or non-commercial use without prior written information.

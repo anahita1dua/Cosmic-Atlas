@@ -47,16 +47,10 @@ Cosmic-Atlas/
 └── README.md
 
 
-## About the Project
+## About
 
-This project was created as a personal astronomy and programming project to combine an interest in space with Python GUI development.
+This project was created as a part of my journey of learning Python and exploring the intersection of programming and astronomy. Feedback and suggestions are always welcome!
 
-## Author
+If you find this project interesting, consider giving it a star!!
 
-Anahita Dua
-
-## License/Copyright
-© 2026 Cosmic Atlas — Personal Project by Anahita, All Rights Reserved 
-
-This project is shared for educational and portfolio purposes only.
-Please do not copy, redistribute, or reuse without permission.
+~Anahita Dua
